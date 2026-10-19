@@ -3,7 +3,7 @@ import Section from "./Section";
 const sections = [
   { title: "Create", description: "Creates an empty Git repository in the current folder.", command: "git init" },
   { title: "Rename", description: "Renames the current branch to main.", command: "git branch -M main" },
-  { title: "Connect", description: "Links this local project to your forked repository on GitHub, under the name origin.", command: "git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git" },
+  { title: "Connect", description: "Links this local project to your forked repository on GitHub, under the name origin.", command: "git remote add origin https://github.com/kenricmuana/CSIT340-G8-Midterms-Muana.git" },
   { title: "Upload", description: "Sends the main branch to the remote named origin.", command: "git push -u origin main" },
 ];
 
