@@ -9,4 +9,5 @@ function Section({ title, description, command }) {
     </section>
   );
 }
+
 export default Section;
